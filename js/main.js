@@ -1,1 +1,1 @@
-document.getElementsByTagName('div')[0].style.backgroundColor= 'Yellow';
+document.getElementsByTagName('div')[0].style.backgroundColor= 'green';
